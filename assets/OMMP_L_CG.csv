@@ -1,5 +1,5 @@
 quarter,value,instName
-1,,Baker County
+1,135,Baker County
 2,116,Baker County
 3,119,Baker County
 4,112,Baker County
@@ -9,7 +9,7 @@ quarter,value,instName
 8,93,Baker County
 9,82,Baker County
 10,78,Baker County
-1,,Benton County
+1,528,Benton County
 2,568,Benton County
 3,593,Benton County
 4,646,Benton County
@@ -19,7 +19,7 @@ quarter,value,instName
 8,503,Benton County
 9,478,Benton County
 10,458,Benton County
-1,,Clackamas County
+1,2763,Clackamas County
 2,2811,Clackamas County
 3,2801,Clackamas County
 4,2847,Clackamas County
@@ -29,7 +29,7 @@ quarter,value,instName
 8,2409,Clackamas County
 9,2321,Clackamas County
 10,2105,Clackamas County
-1,,Clatsop County
+1,315,Clatsop County
 2,320,Clatsop County
 3,322,Clatsop County
 4,332,Clatsop County
@@ -39,7 +39,7 @@ quarter,value,instName
 8,285,Clatsop County
 9,271,Clatsop County
 10,250,Clatsop County
-1,,Columbia County
+1,511,Columbia County
 2,510,Columbia County
 3,505,Columbia County
 4,502,Columbia County
@@ -49,7 +49,7 @@ quarter,value,instName
 8,389,Columbia County
 9,361,Columbia County
 10,347,Columbia County
-1,,Coos County
+1,819,Coos County
 2,810,Coos County
 3,784,Coos County
 4,757,Coos County
@@ -59,7 +59,7 @@ quarter,value,instName
 8,528,Coos County
 9,478,Coos County
 10,409,Coos County
-1,,Crook County
+1,229,Crook County
 2,229,Crook County
 3,213,Crook County
 4,229,Crook County
@@ -69,7 +69,7 @@ quarter,value,instName
 8,182,Crook County
 9,188,Crook County
 10,171,Crook County
-1,,Curry County
+1,405,Curry County
 2,403,Curry County
 3,411,Curry County
 4,433,Curry County
@@ -79,7 +79,7 @@ quarter,value,instName
 8,310,Curry County
 9,302,Curry County
 10,280,Curry County
-1,,Deschutes County
+1,1923,Deschutes County
 2,1979,Deschutes County
 3,1991,Deschutes County
 4,2103,Deschutes County
@@ -89,7 +89,7 @@ quarter,value,instName
 8,1904,Deschutes County
 9,1798,Deschutes County
 10,1637,Deschutes County
-1,,Douglas County
+1,1231,Douglas County
 2,1213,Douglas County
 3,1204,Douglas County
 4,1245,Douglas County
@@ -99,7 +99,7 @@ quarter,value,instName
 8,937,Douglas County
 9,876,Douglas County
 10,845,Douglas County
-1,,Grant County
+1,59,Grant County
 2,63,Grant County
 3,66,Grant County
 4,69,Grant County
@@ -109,7 +109,7 @@ quarter,value,instName
 8,57,Grant County
 9,54,Grant County
 10,57,Grant County
-1,,Harney County
+1,57,Harney County
 2,59,Harney County
 3,57,Harney County
 4,60,Harney County
@@ -119,7 +119,7 @@ quarter,value,instName
 8,,Harney County
 9,,Harney County
 10,,Harney County
-1,,Hood River County
+1,167,Hood River County
 2,173,Hood River County
 3,173,Hood River County
 4,173,Hood River County
@@ -129,7 +129,7 @@ quarter,value,instName
 8,134,Hood River County
 9,132,Hood River County
 10,120,Hood River County
-1,,Jackson County
+1,3293,Jackson County
 2,3299,Jackson County
 3,3302,Jackson County
 4,3434,Jackson County
@@ -139,7 +139,7 @@ quarter,value,instName
 8,2756,Jackson County
 9,2612,Jackson County
 10,2441,Jackson County
-1,,Jefferson County
+1,192,Jefferson County
 2,191,Jefferson County
 3,189,Jefferson County
 4,202,Jefferson County
@@ -149,7 +149,7 @@ quarter,value,instName
 8,194,Jefferson County
 9,205,Jefferson County
 10,187,Jefferson County
-1,,Josephine County
+1,1892,Josephine County
 2,1876,Josephine County
 3,1918,Josephine County
 4,2061,Josephine County
@@ -159,7 +159,7 @@ quarter,value,instName
 8,1794,Josephine County
 9,1742,Josephine County
 10,1566,Josephine County
-1,,Klamath County
+1,590,Klamath County
 2,592,Klamath County
 3,586,Klamath County
 4,602,Klamath County
@@ -169,7 +169,7 @@ quarter,value,instName
 8,464,Klamath County
 9,448,Klamath County
 10,421,Klamath County
-1,,Lake County
+1,73,Lake County
 2,69,Lake County
 3,58,Lake County
 4,52,Lake County
@@ -179,7 +179,7 @@ quarter,value,instName
 8,,Lake County
 9,,Lake County
 10,,Lake County
-1,,Lane County
+1,3525,Lane County
 2,3666,Lane County
 3,3724,Lane County
 4,3864,Lane County
@@ -189,7 +189,7 @@ quarter,value,instName
 8,3028,Lane County
 9,2910,Lane County
 10,2638,Lane County
-1,,Lincoln County
+1,582,Lincoln County
 2,614,Lincoln County
 3,657,Lincoln County
 4,692,Lincoln County
@@ -199,7 +199,7 @@ quarter,value,instName
 8,670,Lincoln County
 9,669,Lincoln County
 10,651,Lincoln County
-1,,Linn County
+1,1133,Linn County
 2,1174,Linn County
 3,1201,Linn County
 4,1228,Linn County
@@ -209,7 +209,7 @@ quarter,value,instName
 8,1049,Linn County
 9,1010,Linn County
 10,934,Linn County
-1,,Malheur County
+1,285,Malheur County
 2,303,Malheur County
 3,318,Malheur County
 4,332,Malheur County
@@ -219,7 +219,7 @@ quarter,value,instName
 8,259,Malheur County
 9,242,Malheur County
 10,222,Malheur County
-1,,Marion County
+1,2248,Marion County
 2,2270,Marion County
 3,2269,Marion County
 4,2305,Marion County
@@ -239,7 +239,7 @@ quarter,value,instName
 8,,Morrow County
 9,,Morrow County
 10,,Morrow County
-1,,Multnomah County
+1,6243,Multnomah County
 2,6369,Multnomah County
 3,6392,Multnomah County
 4,6573,Multnomah County
@@ -249,7 +249,7 @@ quarter,value,instName
 8,5034,Multnomah County
 9,4746,Multnomah County
 10,4379,Multnomah County
-1,,Outside Of Oregon
+1,623,Outside Of Oregon
 2,632,Outside Of Oregon
 3,673,Outside Of Oregon
 4,724,Outside Of Oregon
@@ -259,7 +259,7 @@ quarter,value,instName
 8,512,Outside Of Oregon
 9,347,Outside Of Oregon
 10,223,Outside Of Oregon
-1,,Polk County
+1,236,Polk County
 2,648,Polk County
 3,645,Polk County
 4,651,Polk County
@@ -269,7 +269,7 @@ quarter,value,instName
 8,514,Polk County
 9,508,Polk County
 10,482,Polk County
-1,,Tillamook County
+1,352,Tillamook County
 2,249,Tillamook County
 3,243,Tillamook County
 4,250,Tillamook County
@@ -279,7 +279,7 @@ quarter,value,instName
 8,232,Tillamook County
 9,232,Tillamook County
 10,223,Tillamook County
-1,,Umatilla County
+1,216,Umatilla County
 2,340,Umatilla County
 3,350,Umatilla County
 4,358,Umatilla County
@@ -289,7 +289,7 @@ quarter,value,instName
 8,214,Umatilla County
 9,207,Umatilla County
 10,202,Umatilla County
-1,,Union County
+1,55,Union County
 2,213,Union County
 3,221,Union County
 4,221,Union County
@@ -299,7 +299,7 @@ quarter,value,instName
 8,191,Union County
 9,188,Union County
 10,165,Union County
-1,,Wallowa County
+1,273,Wallowa County
 2,56,Wallowa County
 3,55,Wallowa County
 4,51,Wallowa County
@@ -309,7 +309,7 @@ quarter,value,instName
 8,,Wallowa County
 9,,Wallowa County
 10,,Wallowa County
-1,,Wasco County
+1,2801,Wasco County
 2,266,Wasco County
 3,269,Wasco County
 4,267,Wasco County
@@ -319,7 +319,7 @@ quarter,value,instName
 8,208,Wasco County
 9,199,Wasco County
 10,199,Wasco County
-1,,Washington County
+1,650,Washington County
 2,2826,Washington County
 3,2848,Washington County
 4,2903,Washington County
